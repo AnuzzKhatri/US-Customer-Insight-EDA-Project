@@ -1,7 +1,5 @@
 # US-Customer-Insight-EDA-Project
 
-# Customer Insights: A Statistical Investigation
-
 ## Overview
 
 This project focuses on analyzing customer demographics, spending behavior, engagement patterns, and lifestyle characteristics using statistical techniques and exploratory data analysis (EDA). The objective is to uncover meaningful business insights, validate assumptions through hypothesis testing, and support data-driven decision-making for a retail company.
